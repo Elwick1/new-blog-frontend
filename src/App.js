@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      
+      <h1> this will be the opening page of my new blog app </h1>
     </div>
   );
 }
